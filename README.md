@@ -67,4 +67,3 @@ air-cargo-analysis/
 
 **Isha Sharma**
 
-Data Science & AI Enthusiast
